@@ -1,3 +1,12 @@
+New changes
+some more changes
+changes
+
+This should be copied
+Update
+Final test
+
+
 # renku-project-template
 
 A repository of base templates for new Renku projects. The next sections outline
